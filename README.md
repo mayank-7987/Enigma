@@ -1,5 +1,5 @@
 # Developing Loan Default Prediction Model for Fairness and Accuracy
-This project tackles a critical challenge in the financial sector: credit default prediction. It prioritizes building a model that is not only accurate in predicting loan defaults, but also fair and unbiased in its outcomes, particularly regarding gender. This was achieved through innovative techniques, specifically using XGBoost and Fairlearn's ThresholdOptimizer to minimize gender bias in the model's predictions. The project's success was recognized by its **1st place** win at the **Enigma Hackathon**, held within Codefest'24 at IIT BHU.
+This project tackles a critical challenge in the financial sector: credit default prediction. It prioritizes building a model that is not only accurate in predicting loan defaults, but also fair and unbiased in its outcomes, particularly regarding gender. This was achieved through innovative techniques, specifically using XGBoost and Fairlearn's ThresholdOptimizer to minimize gender bias in the model's predictions. 
 
 **Model Used:**
 
